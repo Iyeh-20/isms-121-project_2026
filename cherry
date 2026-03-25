@@ -1,0 +1,8 @@
+<form action="page.html" method="post">
+  <label>
+    Fruit:
+    <input type="text" name="fruit" dirname="fruit-dir" value="cherry" />
+  </label>
+  <input type="submit" />
+</form>
+<!-- page.html?fruit=cherry&fruit-dir=ltr -->
